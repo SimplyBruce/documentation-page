@@ -1,0 +1,45 @@
+html {
+  background-color: #EEE;
+}
+
+header {
+  font-size: 23px;
+  font-family: sans-serif;
+  margin: 10px;
+}
+
+#main-doc {
+  display: block;
+  position: absolute;
+  margin-left: 210px;
+  top: 0px;
+}
+
+p {
+  margin-left: 18px;
+  font-size: 15px;
+}
+
+#navbar {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  border-right: solid;
+}
+
+#navbar li {
+  list-style: none;
+  margin-right: 4px;
+  padding: 10px;
+}
+
+#navbar header {
+  padding-left: 40px;
+}
+
+main li {
+  padding: 5px;
+    font-size: 13px;
+}
+
+@media all
